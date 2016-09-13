@@ -1,0 +1,1 @@
+bin\BaseI6_CRC_patcher.exe test.bin -v -b
